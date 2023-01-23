@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "primer proyecto nodejs",
+  "main": "ejercicio-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moreescudero/EjerciciosJS.git"
+  },
+  "author": "More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moreescudero/EjerciciosJS/issues"
+  },
+  "homepage": "https://github.com/moreescudero/EjerciciosJS#readme"
+}
